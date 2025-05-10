@@ -36,4 +36,4 @@ This project currently has **no license**. Please do not redistribute without pe
 
 ---
 
-👤 Created by Marc Fersan ([Fiverr Profile](https://www.fiverr.com/marcfersan))
+👤 Created by Marc Fersan ([Fiverr Profile](https://www.fiverr.com/marc_fersan))
